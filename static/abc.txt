@@ -1,0 +1,1 @@
+hello its a new file in static documentation.
